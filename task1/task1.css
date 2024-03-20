@@ -1,0 +1,39 @@
+body {
+    width: 1920px;
+    height: 1550px;
+    position: relative;
+    top: -491px;
+    left: -585px;
+    background-color: black;
+    padding: 491px 0 0 585px;
+    color: black;
+}
+
+header {
+    width: 1998px;
+    height: 80px;
+    position: relative;
+    left: -44px;
+    background-color: white;
+}
+
+#header-logo{
+    width: 36px;
+    height: 36px;
+    position: absolute;
+    top: 22px;
+    left: 240px;
+}
+
+.main-vector{
+    width: 36px;
+    height: 36px;
+    background-color: #243A5A;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.vector{
+    position: absolute;
+}
